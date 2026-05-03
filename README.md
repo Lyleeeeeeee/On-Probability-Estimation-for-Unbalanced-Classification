@@ -54,8 +54,8 @@ If you use this code or find our work helpful, please cite:
   author={Lin, Feng and Dai, Yifan and Liu, Yufeng},
   journal={Journal of Statistical Theory and Practice},
   volume={20},
-  number={57},
+  number={2},
+  pages={57},
   year={2026},
-  publisher={Springer},
-  doi={10.1007/s42519-026-00572-5}
+  publisher={Springer}
 }
